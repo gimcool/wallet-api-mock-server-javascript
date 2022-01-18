@@ -87,3 +87,5 @@ Refer to [here](https://github.com/gimcool/wallet-api-mock-server#curl-testing-c
 <a name="other-language-versions"></a>
 # Other Language Versions
 - [Go](https://github.com/gimcool/wallet-api-mock-server)
+- [JAVA](https://github.com/gimcool/wallet-api-mock-server-java)
+- [PHP](https://github.com/gimcool/wallet-api-mock-server-php)
